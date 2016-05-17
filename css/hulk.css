@@ -1,0 +1,111 @@
+#container {
+    width: 100px;
+    height: 100px;
+    /*background-color: red;*/
+
+    position: absolute;
+    top:-50%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+#head{
+  background-color: tan;
+  border: 2px solid black;
+  width: 90px;
+  height: 120px;
+  border-radius: 10px;
+}
+#hair{
+  background-color: brown;
+  width: 92px;
+  border: 1px solid black;
+  height: 22px;
+  position: absolute;
+  top: 0;
+  right: 6px;
+  border-radius: 10px;
+}
+.one{
+    position: absolute;
+    right: 5px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.two{
+    position: absolute;
+    right: 14px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.three{
+    position: absolute;
+    right: 24px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.four{
+    position: absolute;
+    right: 35px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.five{
+    position: absolute;
+    right: 44px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.six{
+    position: absolute;
+    left: 26px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.seven{
+    position: absolute;
+    left: 18px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.eight{
+    position: absolute;
+    left: 10px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.nine{
+    position: absolute;
+    left: 2px;
+    height: 22px;
+    width: 13px;
+    box-shadow: inset -3px 0 0 0 #252525;
+    border-radius: 50%;
+}
+.chin{
+  position: absolute;
+  width: 90px;
+  height: 100px;
+  border-bottom: 5px solid black;
+  border-radius: 30%;
+}
+
